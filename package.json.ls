@@ -21,7 +21,7 @@ engines:
   node: '>= 0.8.0'
 repository:
   type: 'git'
-  url: 'git://github.com/gkz/optionator.git'
+  url: 'https://github.com/gkz/optionator.git'
 scripts:
   test: "make test"
 
